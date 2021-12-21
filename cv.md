@@ -18,3 +18,11 @@
 
 * #### System Administrator in ICC Ministry of Social Policy of Ukraine
     *June 2011 - April 2014*
+    
+## **Education**
+* #### Industrial and Economic College of National Aviation University
+    Technic-programmer | *September 2005 - July 2009*
+
+* #### National Academy of Management
+    Сomputer Systems Analyst | *September 2009 - June 2012*
+
