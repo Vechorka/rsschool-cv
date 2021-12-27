@@ -1,1 +1,252 @@
 
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.about-me-profession {
+    font-weight: 700;
+    font-size: 14px;
+    color: black;
+}
+
+
+.main-conteiner {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    background-color: #fff;
+    margin: 40px auto;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    
+}
+
+.photo{
+    width: 100%;
+    border-radius: 50%;
+}
+
+.main-content-section{
+    padding: 100px 90px;}
+
+
+.about-me-profession{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000;
+    margin: 0 0 20px 0;
+}
+
+.about-me-name {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000;
+    margin: 0 0 25px 0;
+}
+
+.about-me-description{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    width: 400px;
+    color: #595959;
+}
+
+.about-me-section{
+    margin-bottom: 10px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 27px;
+    
+}
+
+
+.main-content-title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+    
+}
+
+.my-pojects-section{
+    margin-bottom: 50px;
+}
+
+.my-project-list{
+    padding: 0 0 0 22px;
+}
+
+.my-projects-item{
+    color: black;
+    font-weight: bold;
+}
+
+.my-projects-text{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    margin-left: 5px;
+}
+
+.my-projects-bracket{
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 24px;
+color: #000000;
+
+}
+
+.my-projects-link{ font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;}
+
+.my-work-expiriens-company{
+    color: #FB6D3A;
+}
+
+.my-work-experiens-position {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+    margin: 0 0 10px 0;
+}
+.my-work-experiens-period{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+    margin: 0 0 10px 0;
+}
+
+.my-work-experiens-duties{
+    padding: 0 0 0 17px;
+}
+.my-work-experiens-item{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.my-work-experiens-company-block {
+    margin: 0 15px 0 0;
+}
+.my-work-experiens-divider{
+    color: black;
+}
+
+
+.my-education-section{
+    margin: 0 15px 0 0;
+}
+
+
+.my-university {
+    color: #FB6D3A;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    margin: 0 0 10px 0;
+
+}
+
+.education-period{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+    margin: 0 0 0 0;
+}
+
+.my-education-divider{
+    color: black;
+}
+
+.my-education-speciality{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    margin: 0 0 10px 0;
+}
+
+.my-education-place {
+    margin: 10px 15px 0 0;
+}
+
+.contants-section, 
+.tech-skills-section,
+.soft-skills-section
+ {
+    margin: 50px 0 0 40px;
+}
+
+/* Sidebar section */
+.sidebar-section {
+    background-color: #1e2939;
+    width: 370px;
+    padding: 40px 0;
+}
+
+.sidebar-title{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: white;
+    margin-bottom: 10px;
+}
+
+/* contacs section */
+.contants-section-type{
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: white;
+    margin-right: 7px;
+}
+
+.contants-section-link{
+    color: #565e6a;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.techskills-list,
+.softkills-list {
+    padding: 0 0 0 17px;
+}
+
+.techskills-item,
+.softkills-item {
+    color: #FB6D3A;
+}
+
+.techskills-item-text,
+.softkills-item-text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: white; 
+}
